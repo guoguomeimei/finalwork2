@@ -4,5 +4,5 @@ const schema ={
     age:Number,
     amount:Number,
     ID:Number,
-    status:String
+
 }
